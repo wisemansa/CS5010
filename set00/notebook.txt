@@ -1,0 +1,5 @@
+Date  	Who       Start 	Stop 	 Interruptions	 Question 	TimeOnTask    	Comments
+9/5/13	SW	  2:24	        2:35	  0		NA		11 mins		Install Racket, upload image to gravatar, set up github		
+9/13/13 SW	  12:30		12:55	  0		NA		25 mins		Problem set 00 q1
+9/13/13 SW 	  12:55		1:05	  0		NA		10 mins		Problem set 00 q2
+9/13/13 SW	  6:02		6:15	  0		NA		13 mins		Problem set 00 q3
